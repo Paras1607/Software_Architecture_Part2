@@ -1,1 +1,8 @@
 Application initialized with loaded data.
+New parcel added: X111
+Processing Customer: Bob Dawson | Parcel ID: X780 | Fee: $17.8
+Customer removed: Bob Dawson | Parcel ID: X780
+Parcel collected: X780
+New customer added: Paras | Parcel ID: X111
+Customer removed: Paras | Parcel ID: X111
+Parcel collected: X111
